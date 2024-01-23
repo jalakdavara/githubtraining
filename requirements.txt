@@ -3,3 +3,6 @@ this is chat application
 emoji
 type opton
 colors
+
+dark mode
+video
